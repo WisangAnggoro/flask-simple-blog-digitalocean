@@ -1,6 +1,6 @@
 # How To Run
 ## 0. Clone this repo
-```git clone https://github.com/WisangAnggoro/flask-simple-blog-digitalocean.git```
+```git clone https://github.com/WisangAnggoro/flask-simple-blog-digitalocean.git```<br>
 ```cd flask-simple-blog-digitalocean.git```
 ## 1. Create python virtual env
 ```python -m venv env```
