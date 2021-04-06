@@ -18,3 +18,6 @@ windows git bash:
 ```export FLASK_ENV=development```
 ## 5. Run
 ```flask run```
+
+# Reference
+[DigitalOcean Community Flask Tutorial](https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3)
