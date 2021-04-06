@@ -5,16 +5,16 @@
 ## 1. Create python virtual env
 ```python -m venv env```
 ## 2. Enter the python virtual env
-linux: 
-```source env/bin/activate```
-windows cmd:
-```env\Scripts\activate```
-windows git bash:
+linux: <br>
+```source env/bin/activate```<br>
+windows cmd:<br>
+```env\Scripts\activate```<br>
+windows git bash:<br>
 ```source env/Scripts/activate```
 ## 3. Install dependencies from requirements.txt
 ```pip install -r requirements.txt```
 ## 4. Choose app and flask env
-```export FLASK_APP=app```
+```export FLASK_APP=app```<br>
 ```export FLASK_ENV=development```
 ## 5. Run
 ```flask run```
