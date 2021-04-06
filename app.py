@@ -3,7 +3,7 @@ import sqlite3
 from werkzeug.exceptions import abort
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = 'your secret key'
+app.config['SECRET_KEY'] = b'\x83\x15\xe9$\xaa=\xa4\xba\r\xf8\x1aT\xc9\xd2\xf5^'
 
 def get_db_connection():
     conn = sqlite3.connect('database.db')
